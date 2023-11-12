@@ -1,2 +1,2 @@
 # Pygame_Project
-I have made some simple games using pygame
+Here I have made some games using in python using pygame library
